@@ -1,0 +1,7 @@
+{
+  "name": "Satyam EyeCare",
+  "description": "Premium affordable eyewear and eye clinic booking portal for Ludhiana. founded by a myopia survivor.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
